@@ -8,15 +8,10 @@ This application is part of a Full Stack Javascript challenge, consisting on an 
 
 ## Run Locally
 
-Clone the project
+Create an empty directory and clone the project
 
 ```bash
-  git clone https://link-to-project
-```
-
-
-```bash
-  cd my-project
+  git clone [https://link-to-project](https://github.com/jsepic89/challenge-toolbox)
 ```
 
 ## Installation
