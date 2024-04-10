@@ -11,7 +11,7 @@ This application is part of a Full Stack Javascript challenge, consisting on an 
 Create an empty directory and clone the project
 
 ```bash
-  git clone [https://link-to-project](https://github.com/jsepic89/challenge-toolbox)
+  git clone https://github.com/jsepic89/challenge-toolbox
 ```
 
 ## Installation
